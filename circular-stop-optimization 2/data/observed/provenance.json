@@ -1,0 +1,28 @@
+{
+  "source": {
+    "authors": [
+      "Aldo Videa",
+      "Yiyi Wang"
+    ],
+    "title": "Inference of Transit Passenger Counts and Waiting Time Using Wi-Fi Signals",
+    "date": "2021-08-16",
+    "doi": "10.15788/1715288737",
+    "primary_url": "https://rosap.ntl.bts.gov/view/dot/68758/dot_68758_DS1.pdf",
+    "publisher_url": "https://westerntransportationinstitute.org/wp-content/uploads/2024/05/4W7213_Transit_Passenger_Counts_Using_Wi-Fi_Report_082021.pdf",
+    "independent_text_mirror": "https://scholarworks.montana.edu/server/api/core/bitstreams/5fdf1d59-beea-4d8c-8079-87dd67d9978f/content",
+    "accessed": "2026-10-31"
+  },
+  "data": {
+    "timing": "Tables 16 and 17; measured travel time and stopped duration by collection column.",
+    "od": "Table 9; 23 pooled April 2018 survey trips.",
+    "published_summary_checks": "Summary statistics for checking transcription."
+  },
+  "transcription": {
+    "method": "Transcribed from retrieved published PDF text and checked against reported summary statistics; original page images were not independently verified.",
+    "missing_values": "Unrecorded entries remain missing, not zero.",
+    "date_discrepancy": "October first-column date differs between the two printed timing tables (10/8 and 10/18).",
+    "training": "October 2018 collection columns 1-5.",
+    "evaluation": "January 7-11, 2019 collection columns 6-10.",
+    "survey_crosswalk": "The survey uses 19 labels and the timing data 20; there is no verified crosswalk."
+  }
+}
