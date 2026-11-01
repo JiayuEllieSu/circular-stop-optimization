@@ -2,7 +2,7 @@
 
 Fixed-budget bus-stop placement on circular routes, with continuum optimization, feasible discrete layouts, and passenger reassignment.
 
-The repository includes synthetic benchmarks and a separate timing-calibration analysis of published Orangeline observations. The observed data do not validate the effects of relocating stops.
+The repository includes synthetic benchmarks and a separate timing-calibration analysis of published Orangeline observations. 
 
 ## Paper
 
