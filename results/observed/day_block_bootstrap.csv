@@ -1,0 +1,3 @@
+quantity,day_macro_mae_reduction_seconds,bootstrap_percentile_2_5_seconds,bootstrap_percentile_97_5_seconds,days_improved,held_out_days,bootstrap_resamples,scope
+travel,15.515989346405224,13.414327777777777,17.864443856209146,5,5,3125,"Descriptive five-day paired bootstrap, conditional on fitted models; no training, transcription or counterfactual uncertainty."
+stopped,-0.7230117245817247,-1.9408578635778635,0.3441160875160875,3,5,3125,"Descriptive five-day paired bootstrap, conditional on fitted models; no training, transcription or counterfactual uncertainty."
