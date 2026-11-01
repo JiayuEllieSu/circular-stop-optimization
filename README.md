@@ -6,7 +6,7 @@ The repository includes synthetic benchmarks and a separate timing-calibration a
 
 ## Paper
 
-[Read the paper](paper/transit_final.pdf) or see [the LaTeX source](paper/transit_final.tex).
+[Read the paper](paper/Fixed_Budget_Stop_Design_on_Circular_Routes_Theory__Discrete_Benchmarks__and_Observational_Calibration.pdf) or see [the LaTeX source](paper/transit_final.tex).
 To compile the paper with the included tables and figures:
 
 ```bash
